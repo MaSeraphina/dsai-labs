@@ -36,3 +36,7 @@ Cochran, W.G. (1954). Some Methods for Strengthening the Common χ² Tests. *Bio
 Ryan, et al. (1998) The effect of in-store music on consumer choice of wine. In: *Proceedings of the Nutrition Society.* **57**(4), p. 169a.
 
 Vanhaelewyn, B. & De Marez, L. (2016) *Digimeter 2016.* Onderzoeksrapport. Imec. Opgehaald 2017-05-03 van <http://www.imec.be/digimeter>
+
+## License
+
+[Data Science & AI - Labs](https://github.com/HoGentTIN/dsai-labs/) © 2022 by [HOGENT toegepaste informatica](https://github.com/HoGentTIN/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
